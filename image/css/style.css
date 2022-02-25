@@ -1,0 +1,149 @@
+*{
+box-sizing: border-box;
+}
+.watch{
+padding: 15px;
+display: flex;
+justify-content: space-between;
+}
+.ruyxat{
+    margin-left: 300px;
+}
+.nav{
+text-decoration: none;
+padding: 25px;
+}
+.first{
+    margin-left: 70px;
+} 
+.icon{
+    display: flex;
+}
+.spring{
+    margin-left: 120px;
+    margin-top: 200px;
+}
+.button{
+    width: 205px;
+    height: 64px;
+    border: 2px solid red;
+    background-color: black;
+}
+.page{
+    width: 205px;
+    height: 64px;
+    background-color: #D4B098;
+    color: white ;
+    border: none;
+}
+.pagee{
+    width: 205px;
+    height: 64px;
+    background-color: #D4B098;
+    color: black ;
+    border: none;
+    color: white;
+    vertical-align: top;
+}
+.soat{
+    margin-left: 450px;
+    margin-top: -420px;
+}
+.spring{
+    width: 100%;
+    height: 740px;
+}
+.screen{
+    width: 1366px;
+    height: 720px;
+}
+.head{
+    text-align: center;
+}
+.all{
+    margin-left: 1100px;
+}
+.qator{
+    display: flex;
+    list-style: none;
+    margin-top: 40px;
+}
+.soatlar{
+    margin-left: 120px;
+}
+.chiziq{
+    width: 50px;
+    height: 2px;
+    background-color: black;
+    display: block;
+    margin-top: 10px;
+}
+.ch{
+    display: flex;
+    
+}
+.paragraph{
+    display: inline;
+    margin-top: 0px;
+    margin-left: 15px;
+}
+.banner{
+    width:100%;
+    height: 520px;
+    border: 1px solid red;
+    display: flex;
+}
+.jpeg{
+    width: 521px;
+    height: 414px;
+    margin-left: 100px;
+    margin-top: 50px;
+    
+}
+.left{
+    margin-top: 120px;
+    margin-left: 50px;
+}
+.small{
+    margin-top: 170px;
+    margin-left: 100px;
+}
+.bottom{
+    width: 1160px;
+    height: 600px;
+    display: flex;
+}
+.save{
+    display: block;
+}
+.site-picture{
+    display: flex;
+    margin-left: 80px;
+margin-top: 50px;
+}
+.ppp{
+    margin-left: 5px;
+}
+.site-footer{
+    width:100%;
+    height: 275px;
+    margin: 0 auto;
+    background-color: #444240;
+    
+}
+.ruyxatlar{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 45px;
+}
+.site-li{
+    list-style: none;
+    margin-top: 45px;
+}
+.ketti{
+    text-decoration: none;
+    color: white;
+}
+.site-paragraph{
+    color: white;
+}

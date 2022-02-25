@@ -1,0 +1,185 @@
+body{
+    width: 1366px;
+height: 800.84px;
+
+}
+.logo{
+    width:400px;
+height: 26px;
+display: inline-block;
+}
+.menyu{
+    width: 600px;
+height: 13px;
+display: inline-block;
+font-size: 20px;
+}
+.ruyxat{
+    list-style-type: none;
+    display: inline-block;
+text-align: left;
+}
+.katalog{
+    display: inline-block;
+    width: 110px;
+}
+.enter{
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .link{
+        text-decoration: none;
+        font-size: 18px;
+        background-color: #444240;
+        color: white;
+    }
+    .fanta{
+        color: black;
+        text-decoration: none;
+    }
+    .entered{
+        background-color: #D4B098;  
+        color: white;
+      font-size: 18px;
+    }
+.rasm{
+    width: 160px;
+    height: 21px;
+}
+.icon{
+    display: inline-block;
+}
+.menu{
+    height: 200px;
+}
+.spring{
+width: 500px;
+/* text-align: center; */
+display: inline-block;
+vertical-align: top;
+}
+.oclock{
+    width: 505px;
+    height: 804px;
+}
+.rubl{
+    vertical-align: top;
+}
+.line{
+    width: 50px;
+    height: 2px;
+    display: inline-block;
+    background-color:black;
+    vertical-align: top;
+}
+.second_line{
+    width: 50px;
+    height: 2px;
+    display: inline-block;
+    background-color:black;
+}
+.for-watch{
+    display: inline-block;
+}
+.screen_2{
+    width: 1366px;
+    height: 720px;
+}
+.header_2{
+    text-align: center;
+    display: inline-block;
+    width: 1200px ;
+}
+.ul_for{
+width: 100%;
+}
+.chiziq{
+    width: 30px;
+    height: 2px;
+   display: inline-block;
+   background-color:black;
+}
+.udar{
+    display: block;
+    width: 400px;
+}
+.brand{
+    display: inline-block;
+}
+.banner{
+    width: 1366px;
+    height:520px
+
+}
+.for_image{
+    width: 600px;
+    display: inline-block;
+}
+.para_h2{
+    display: inline-block;
+    vertical-align: top;
+}
+.screen_3{
+    width: 1171px;
+height: 600px;
+/* display: inline-block; */
+}
+.end_photo{
+    display: block;
+
+}
+.Header_3{
+    display: inline-block;
+width: 35%;
+vertical-align: top;
+}
+.small{
+    width: 242px;
+height: 228px;
+}
+.large{
+    width: 377px;
+height: 460px;
+left: 891px;
+}
+.none{
+    list-style: none;
+    display: inline-block;
+}
+.wolf{
+    display: inline-block;
+}
+.wolf1{
+    width: 242px;
+    display: inline-block;
+}
+.end_photo{
+    width: 60%;
+    display: inline-block;
+}
+.footer{
+    width:1366px;
+    height: 275px;
+    display: inline-block;
+    background: #444240;
+}
+
+.company{
+    display: inline-block;
+    width: 25%;
+}
+.first{
+    width: 20%;
+    display: inline-block;
+}
+.bosh_ogriq{
+    width: 20%;
+    display: inline-block;
+}
+.com{
+    width: 300px;
+}
+.end{
+    text-decoration: none;
+    color: white;
+}
